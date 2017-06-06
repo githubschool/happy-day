@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+# Day 4: Local Practice
+=======
 # Day Merge: Local Practice
+>>>>>>> origin/master
 
 ### In Class Activities:
 - Brand new, *local only* repositories
