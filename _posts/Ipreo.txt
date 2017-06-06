@@ -1,0 +1,14 @@
+clone
+stagging area
+commit area
+Commit
+checkout the branch
+Remote Tracking Branch
+Local Branch
+Md File
+Issue
+Pull request
+Git Pull
+Git Merge
+Merge Conflict
+Remote Tracking Bracnh
