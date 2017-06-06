@@ -3,6 +3,9 @@
 - Class Date: June 6 - 7, 2017
 - Facilitator: @brianamarie
 
+## Starting Off
+Once you are logged into the WiFi, please go to `github.com` and sign in. If you don't already have an account, you will need to create one. (You'll also need to access your email to verify your account.) 
+
 ## Talk to Us!!
 
 If you have a question, or need assistance during class, **please create an issue and mention your teacher!**.
